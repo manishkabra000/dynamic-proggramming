@@ -13,7 +13,7 @@ The first few Catalan numbers for n = 0, 1, 2, 3, … are 1, 1, 2, 5, 14, 42, 13
 
 #### Approach :
 
-#### Applications :
+#### Applications: [Click Here](https://www.geeksforgeeks.org/applications-of-catalan-numbers/)
  - [x] [Nth catalan number](https://practice.geeksforgeeks.org/problems/nth-catalan-number0817/1)
  - [x] [Unique Binary Search Trees](https://leetcode.com/problems/unique-binary-search-trees/)
  - [ ] [Enumeration of Binary Trees](https://www.geeksforgeeks.org/enumeration-of-binary-trees/)
