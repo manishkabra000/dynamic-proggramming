@@ -14,7 +14,10 @@ The first few Catalan numbers for n = 0, 1, 2, 3, … are 1, 1, 2, 5, 14, 42, 13
 #### Approach :
 
 #### Applications :
- - [Nth catalan number](https://practice.geeksforgeeks.org/problems/nth-catalan-number0817/1)
- - [Unique Binary Search Trees](https://leetcode.com/problems/unique-binary-search-trees/)
- - [Enumeration of Binary Trees](https://www.geeksforgeeks.org/enumeration-of-binary-trees/)
- - 
+ - [x] [Nth catalan number](https://practice.geeksforgeeks.org/problems/nth-catalan-number0817/1)
+ - [x] [Unique Binary Search Trees](https://leetcode.com/problems/unique-binary-search-trees/)
+ - [ ] [Enumeration of Binary Trees](https://www.geeksforgeeks.org/enumeration-of-binary-trees/)
+ - [ ] [Find the number of valid parentheses expressions of given length](https://www.geeksforgeeks.org/find-number-valid-parentheses-expressions-given-length/)
+ - [ ] [Number of ways a convex polygon of n+2 sides can split into triangles by connecting vertices](https://www.geeksforgeeks.org/number-of-ways-a-convex-polygon-of-n2-sides-can-split-into-triangles-by-connecting-vertices/)
+ - [ ] [Number of full binary trees (A rooted binary tree is full if every vertex has either two children or no children) with n+1 leaves](https://www.geeksforgeeks.org/total-number-of-possible-binary-search-trees-using-catalan-number/)
+ - [ ] [Dyck Words of given length](https://www.geeksforgeeks.org/dyck-words-of-given-length/)
